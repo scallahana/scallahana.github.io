@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://scallahana.github.io
+title: S.Callahan
+tagline: Promoting excellance through design.
+description: Tips tricks tutorials new content once a month
+paginate: 5
